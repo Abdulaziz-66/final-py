@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(16, 15, 15);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+form {
+    height: 350px;
+    width: 400px;
+    border: 3px solid rgb(182, 190, 222);
+    border-radius: 6px;
+    color: aliceblue;
+    margin: 30px auto;
+    
+}
+
+input{
+    text-align: center;
+
+}
+
+.in input{
+
+    
+    padding:10px 15px;
+    color: black;
+border-radius: 10px;
+    border:  2px solid rgb(247, 147, 8);
+  
+
+
+}
+ 
+
+
+
+
+textarea{
+    text-align: end;
+}
+
+p{
+    color: aliceblue;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(43, 44, 45);
+    padding: 10px;
+
+
+
+}
+
+nav a {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(247, 147, 8);
+    text-decoration: none;
+    text-align: center;
+
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+   
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(43, 44, 45);
+    padding-block: 10px 0;
+
+}
+
+h4{
+   color: aliceblue;
+}
+
+
+nav a.active{
+    border-bottom: 3px solid rgb(247, 147, 8);
+    padding-bottom: 3px;
+}
